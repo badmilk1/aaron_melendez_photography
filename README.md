@@ -1,10 +1,4 @@
-# SideHustle Programming
+# Photo and Video Site  
 
-Learning how to tell machines what to do with themselves is a fascinating hobby.  
-How about turning that hobby into something that helps other people and generates revenue for your efforts?  
-
-## Leveraging tech skills to help people and generate revenue.  
-
-### TODO:
-
-LICENSE
+* Display Photos and Videos -- A gallery maybe?  
+* Store Images and Data -- Cloud storage like Amazon S3 or Google Cloud  
