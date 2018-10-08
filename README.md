@@ -16,3 +16,4 @@
 4. Funding the site
     * [Patreon](https://www.patreon.com/)
     * [MailChimp Ads](https://mailchimp.com/features/custom-forms/)
+    * Google AdSense
