@@ -1,5 +1,5 @@
 # [Project LadyBoy](https://github.com/bgroveben/project_ladyboy)  
-`Create an comprehensive online identity for Aaron and his projects`    
+`Create a comprehensive online identity for Aaron and his projects.`    
 
 Your collection of internet properties and brands will be networked, basically.  
 It will be easier to keep track of (as well as interact with) your audience and their interests, as well as cultivate a relationship with your followers as a group.  
@@ -21,7 +21,9 @@ All you have to do for now is:
 See, you got this! ;)  
 Read all of that again after you get a hot drink and some fresh fruit, and we can move on.  
 
-## [Portfolio Website](https://bgroveben.github.io/project_ladyboy/)  
+## [Portfolio Website](https://bgroveben.github.io/project_ladyboy/)
+### Other suitable templates are [here](https://www.w3schools.com/w3css/tryw3css_templates_photo.htm) and also [here](https://www.w3schools.com/w3css/tryw3css_templates_photo3.htm).  
+All of the [W3.CSS templates](https://www.w3schools.com/w3css/w3css_templates.asp) are meant to be recycled and have a permissive [license](https://tldrlegal.com/license/w3c-software-notice-and-license-(w3c)#fulltext).
 
 1. Display images and videos.  
     * Github and Github Pages, for now at least; Google Sites for production deployment.
