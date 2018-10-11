@@ -15,8 +15,9 @@ Since you already familiar with Google Cloud, and Google Photos has unlimited fr
 Deep breaths Aaron.  
 You don't have to learn about all of this, there is no test, and just looking at the information in the links for a few minutes is enough to get you up to speed.  
 All you have to do for now is:  
-* [Transfer Instagram Photos to Google Photos](https://www.quora.com/How-do-I-transfer-my-pictures-to-Instagram-from-Google-Photos)
+* [Transfer Instagram Photos to Google Photos.](https://www.quora.com/How-do-I-transfer-my-pictures-to-Instagram-from-Google-Photos)
 * [Transfer images and videos from your external drive or internal storage to Google Photos. AKA back your stuff up in the cloud.](https://www.google.com/drive/download/backup-and-sync/)  
+* [Set up a Pinterest Account.](https://www.pinterest.com/categories/photography/) 
 
 See, you got this! ;)  
 Read all of that again after you get a hot drink and some fresh fruit, and we can move on.  
