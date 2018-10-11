@@ -1,5 +1,5 @@
 # [Project LadyBoy](https://github.com/bgroveben/project_ladyboy)  
-`Create a comprehensive online identity for Aaron and his projects.`    
+`Create a comprehensive online identity and brand for Aaron and his projects.`    
 
 Your collection of internet properties and brands will be networked, basically.  
 It will be easier to keep track of (as well as interact with) your audience and their interests, as well as cultivate a relationship with your followers as a group.  
