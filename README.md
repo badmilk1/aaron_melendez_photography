@@ -1,4 +1,4 @@
-# [Project LadyBoy](https://github.com/bgroveben/project_ladyboy)  
+# [Project LadyBoy](https://github.com/badmilk1/aaron_melendez_photography)  
 
 `Create a comprehensive online identity and brand for Aaron and his projects.`    
 
@@ -23,7 +23,7 @@ All you have to do for now is:
 See, you got this! ;)  
 Read all of that again after you get a hot drink and some fresh fruit, and we can move on.  
 
-## [Portfolio Website](https://bgroveben.github.io/aaron_melendez_photography/)  
+## [Portfolio Website](https://badmilk1.github.io/aaron_melendez_photography/)  
 ### Other suitable templates are [here](https://www.w3schools.com/w3css/tryw3css_templates_photo.htm) and also [here](https://www.w3schools.com/w3css/tryw3css_templates_photo3.htm).
 All of the [W3.CSS templates](https://www.w3schools.com/w3css/w3css_templates.asp) are meant to be recycled and have a permissive [license](https://tldrlegal.com/license/w3c-software-notice-and-license-(w3c)#fulltext).
 
